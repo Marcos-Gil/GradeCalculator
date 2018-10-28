@@ -17,6 +17,7 @@ Launching instructions:
 3. Run with "java Grades num num num num num num" where num is a valid grade between 0-100
 
 Example:
+--------
 java Grades A P T Q M F
 
 A = Assignments(25%)
