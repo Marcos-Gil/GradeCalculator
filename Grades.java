@@ -1,5 +1,5 @@
 /** 
- * Student Name: Marcos Gil
+ * By: Marcos Gil
  * 
  * This is a program that takes 6 command line arguments(which are the users
  * grades in this order for Assignments, Project, Tutorials, Quizzes, Miderm,
