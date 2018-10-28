@@ -18,9 +18,15 @@ Launching instructions:
 
 Example:
 java Grades A P T Q M F
+
 A = Assignments(25%)
+
 P = Project(10%)
+
 T = Tutorials(10%)
+
 Q = Quizzes(5%)
+
 M = Midterm(15%)
+
 F = Final exam (35%)
